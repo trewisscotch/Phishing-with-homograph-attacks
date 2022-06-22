@@ -29,4 +29,4 @@ While this vulnerability has now been corrected in the latest versions of Chrome
 Even so, the gmạil.com site from the previous example also manages to evade Chrome’s protection, as it only uses Latin characters, but includes a special Latin character (“ạ”—note the dot below the “a”), which is displayed by the browser.
 
 ## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
-## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/HiroSCOTCH#
+## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/TrewisWork#
